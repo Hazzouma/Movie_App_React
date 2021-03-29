@@ -1,0 +1,11 @@
+.addMovieBtn{
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+}
+.inpt{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 2% 0;
+}
